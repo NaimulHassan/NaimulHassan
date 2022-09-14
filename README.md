@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[NaimulHassan])
+[Profile views](https://gpvc.arturio.dev/[NaimulHassan])
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23000000&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+K.+M.+Naimul+Hassan;Welcome+to+my+profile!" alt="Title"></img>
