@@ -7,12 +7,12 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :red_circle: Check my <a href="https://naimulhassan.github.io">portfolio</a> to know more about me 
 - :man_student: My full name is **K. M. Naimul Hassan**
 - :school: I'm currently a graduate fellow (M.Sc.) at **Bangladesh University of Engineering and Technology (BUET)**
 - :books: My major is **Electrical and Electronic Engineering (EEE)**
 - :computer: My research interests include applied deep learning, conversational ai and optimization in smart grid load management.
 - :ok_hand: Love to travel around the world, watch football, listen to music, play piano...
+- :red_circle: Check my <a href="https://naimulhassan.github.io">portfolio</a> to know more about me
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
