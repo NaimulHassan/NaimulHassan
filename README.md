@@ -10,7 +10,7 @@
 - :man_student: My full name is **K. M. Naimul Hassan**
 - :school: I'm currently a graduate fellow (M.Sc.) at **Bangladesh University of Engineering and Technology (BUET)**
 - :books: My major is **Electrical and Electronic Engineering (EEE)**
-- :computer: My research interests include applied deep learning, conversational ai and optimization in smart grid load management.
+- :computer: My research interests include Applied Machine Learning/Deep Learning, Healthcare, Signal (Audio and Biomedical) Processing, Conversational AI and Ubiquitous Computing.
 - :airplane: Love to travel around the world, watch football, listen to music, play piano...
 - :red_circle: Check my <a href="https://naimulhassan.github.io">portfolio</a> to know more about me
 
