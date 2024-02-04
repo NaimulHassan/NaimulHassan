@@ -10,7 +10,7 @@
 - :man_student: My full name is **K. M. Naimul Hassan**
 - :school: I'm a Ph.D. student in **Computer Science and Engineering (CSE)** at **The Ohio State University**
 - :books: My major is **Artificial Intelligence**.
-- :computer: My research interests include **Applied Machine Learning/Deep Learning**, **Healthcare**, **Signal (Audio and Biomedical) Processing**, **Conversational AI** and **Ubiquitous Computing**.
+- :computer: My research interests include **Applied Machine Learning/Deep Learning**, **Healthcare**, **Signal (Audio and Biomedical) Processing**, and **Auditory Attention Detection**.
 - :airplane: Love to travel around the world, watch football, listen to music, play piano...
 - :red_circle: Check my <a href="https://naimulhassan.github.io">portfolio</a> to know more about me
 
@@ -31,5 +31,5 @@
 
 <div align="center">
   Thanks for watching my profile! Have a nice day! <br/>
-  &copy; 2023 K. M. Naimul Hassan
+  &copy; 2024 K. M. Naimul Hassan
 </div>
